@@ -1,4 +1,4 @@
-### Hi there I'm foufrix! 👋
+# Hi there I'm foufrix! 👋
 
 I'm an all around developer, passionate about learning all new tech! I've been CTO of 3 startups now and will continue to do so in the futur! I have a strong experience in TypeScript, React, NodeJS and Cloud/DevOps. I'm consolidationg my knowledge on Solidity, especially with the [Foundry Framework](https://github.com/foundry-rs/foundry)
 
