@@ -24,5 +24,5 @@ Feel free to contact me through my personal website [The Hot Code](https://theho
 
 ## Currently working on
 
-[![Ethernaut-Foundry card](https://github-readme-stats.vercel.app/api/pin/?username=foufrix&repo=ethernaut-foundry)](https://github.com/anuraghazra/github-readme-stats)
-[![Foundry Card](https://github-readme-stats.vercel.app/api/pin/?username=foundry-rs&repo=foundry)](https://github.com/anuraghazra/github-readme-stats)
+[![Ethernaut-Foundry card](https://github-readme-stats.vercel.app/api/pin/?username=foufrix&repo=ethernaut-foundry)](https://github.com/foufrix/ethernaut-foundry)
+[![Foundry Card](https://github-readme-stats.vercel.app/api/pin/?username=foundry-rs&repo=foundry)](https://github.com/foundry-rs/foundry)
