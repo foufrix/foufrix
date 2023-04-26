@@ -4,8 +4,8 @@ I'm an all around developer, passionate about learning all new tech! I've been C
 
 **About me**
 
-- 🔭 I’m currently working on PiNGS, a web3 community builder
-- 🌱 I’m currently learning on Solidity security and best practices
+- 👷‍♂️ Working on PiNGS, a web3 community builder
+- 📖 Learning on Solidity security and best practices
 - 🏋️‍♂️ and grinding [Code4rena](https://code4rena.com/) ! 
 
 ## How to reach me
