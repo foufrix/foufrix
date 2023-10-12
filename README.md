@@ -1,12 +1,11 @@
 # Hi there I'm foufrix! 👋
 
-I'm an all around developer, passionate about learning all new tech! I've been CTO of 3 startups now and will continue to do so in the futur! I have a strong experience in TypeScript, React, NodeJS and Cloud/DevOps. I'm consolidationg my knowledge on Solidity, especially with the [Foundry Framework](https://github.com/foundry-rs/foundry)
+I'm an all-around developer, passionate about learning all new tech! I've been CTO of 3 startups now and will continue to do so in the future! I have strong experience in TypeScript, React, NodeJS, and Cloud/DevOps. I'm consolidating my knowledge on Solidity, especially with the [Foundry Framework](https://github.com/foundry-rs/foundry)
 
 **About me**
 
 - 👷‍♂️ Working on PiNGS, a web3 community builder
 - 📖 Learning on Solidity security and best practices
-- 🏋️‍♂️ and grinding [Code4rena](https://code4rena.com/) ! 
 
 ## How to reach me
 
@@ -18,9 +17,6 @@ Feel free to contact me through my personal website [The Hot Code](https://theho
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" alt="solidity" src="https://raw.githubusercontent.com/foufrix/foufrix/main/assets/solidity.png"></code>
 
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=foufrix&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="foufrix's github stats" /></a> | <a href="https://github.com/foufrix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foufrix&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 ## Currently working on
 
