@@ -5,7 +5,7 @@ I'm an all-around developer, passionate about learning all new tech! I've been C
 **About me**
 
 - 📖 Learning on Solidity security and best practices, judge and auditor @Sherlock
-- Starting to contribute to Open-source, focusing on Ethereum related projects
+- 🔭 Open-source contributor focusing on Ethereum-related projects
 
 ## How to reach me
 
