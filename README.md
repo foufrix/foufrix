@@ -4,8 +4,8 @@ I'm an all-around developer, passionate about learning all new tech! I've been C
 
 **About me**
 
-- 👷‍♂️ Working on PiNGS, a web3 community builder
-- 📖 Learning on Solidity security and best practices
+- 📖 Learning on Solidity security and best practices, judge and auditor @Sherlock
+- Starting to contribute to Open-source, focusing on Ethereum related projects
 
 ## How to reach me
 
